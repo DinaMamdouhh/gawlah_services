@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "152937457536",
+    "firebase_url": "https://flutter-gawlah-3fd03.firebaseio.com",
+    "project_id": "flutter-gawlah-3fd03",
+    "storage_bucket": "flutter-gawlah-3fd03.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:152937457536:android:bf8fb56c92558184",
+        "android_client_info": {
+          "package_name": "com.example.flutter_gawlah"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "152937457536-jdmngjuplqlqnd0hbec85jfmnnkt6qlc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvH3ZWOPedIaqdDyHc7SzslMF3ZwnTdSM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "152937457536-jdmngjuplqlqnd0hbec85jfmnnkt6qlc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
